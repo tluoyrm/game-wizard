@@ -1,0 +1,28 @@
+[Sat Apr 09 22:18:01 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:27:47 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:30:27 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:32:13 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:32:13 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/favicon.ico, referer: http://game-wizard/en/
+[Sat Apr 09 22:32:18 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:32:25 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:34:05 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:34:22 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:39:21 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:44:37 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:48:37 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:48:38 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/favicon.ico
+[Sat Apr 09 22:48:38 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/favicon.ico
+[Sat Apr 09 22:53:04 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:53:41 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:54:01 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/ru
+[Sat Apr 09 22:55:20 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:55:20 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/favicon.ico, referer: http://game-wizard/en/
+[Sat Apr 09 22:55:34 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:56:19 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Sat Apr 09 22:56:19 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/favicon.ico
+[Sat Apr 09 22:56:21 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/favicon.ico
+[Sat Apr 09 22:57:00 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/game-wizard/en
+[Mon Apr 03 13:57:27 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method App\\Controller\\UsersController::setCurrentTime() in D:\\Develop\\web\\game-wizard\\src\\Controller\\UsersController.php on line 152, referer: http://game-wizard/en/Users/init
+[Mon Apr 03 13:57:30 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method App\\Controller\\UsersController::setCurrentTime() in D:\\Develop\\web\\game-wizard\\src\\Controller\\UsersController.php on line 152
+[Mon Apr 03 13:57:46 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method App\\Controller\\UsersController::setCurrentTime() in D:\\Develop\\web\\game-wizard\\src\\Controller\\UsersController.php on line 152
+[Mon Apr 03 13:57:57 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method App\\Controller\\UsersController::setCurrentTime() in D:\\Develop\\web\\game-wizard\\src\\Controller\\UsersController.php on line 152

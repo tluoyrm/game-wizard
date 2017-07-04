@@ -1,0 +1,207 @@
+2015-12-27 14:22:23 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(167): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('Family', 'family')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Family')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('Family')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('family', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('family')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2015-12-27 14:23:57 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(167): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('Family', 'family')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Family')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('Family')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('family', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('family')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2016-01-01 11:59:06 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(167): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('FamilySprite', 'family_sprite')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('FamilySprite')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('FamilySprite')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('family_sprite', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('family_sprite')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2016-01-09 13:20:37 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(167): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('Guild', 'guild')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Guild')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('Guild')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('guild', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('guild')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2016-01-09 15:57:47 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(167): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('GuildSkill', 'guild_skill')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('GuildSkill')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('GuildSkill')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('guild_skill', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('guild_skill')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2016-01-09 15:58:26 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "sm_db" was not found.
+Exception Attributes: array (
+  'name' => 'sm_db',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\ORM\TableRegistry.php(192): Cake\Datasource\ConnectionManager::get('sm_db')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\TestTask.php(294): Cake\ORM\TableRegistry::get('GuildSkill')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\TestTask.php(213): Bake\Shell\Task\TestTask->buildTestSubject('Table', 'App\\Model\\Table...')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(944): Bake\Shell\Task\TestTask->bake('Table', 'GuildSkill')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(135): Bake\Shell\Task\ModelTask->bakeTest('GuildSkill')
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('GuildSkill')
+#6 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('GuildSkill')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('guild_skill', 0)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#9 [internal function]: Bake\Shell\BakeShell->all('guild_skill')
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#11 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#12 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#13 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#14 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-01-09 15:59:26 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(167): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('GuildSkill', 'guild_skill')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('GuildSkill')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('GuildSkill')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('guild_skill', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('guild_skill')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2016-01-09 16:00:00 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "sm_db" was not found.
+Exception Attributes: array (
+  'name' => 'sm_db',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\ORM\TableRegistry.php(192): Cake\Datasource\ConnectionManager::get('sm_db')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\TestTask.php(294): Cake\ORM\TableRegistry::get('GuildSkill')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\TestTask.php(213): Bake\Shell\Task\TestTask->buildTestSubject('Table', 'App\\Model\\Table...')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(944): Bake\Shell\Task\TestTask->bake('Table', 'GuildSkill')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(135): Bake\Shell\Task\ModelTask->bakeTest('GuildSkill')
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('GuildSkill')
+#6 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(254): Bake\Shell\Task\ModelTask->main('GuildSkill')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('guild_skill', 0)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(257): Cake\Collection\Collection->each(Object(Closure))
+#9 [internal function]: Bake\Shell\BakeShell->all('guild_skill')
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(380): call_user_func_array(Array, Array)
+#11 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(204): Cake\Console\Shell->runCommand(Array, true)
+#12 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(175): Cake\Console\ShellDispatcher->_dispatch()
+#13 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch()
+#14 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#15 {main}
+
+
+2016-01-23 19:36:00 Error: [Cake\Datasource\Exception\MissingDatasourceConfigException] The datasource configuration "default" was not found.
+Exception Attributes: array (
+  'name' => 'default',
+)
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(169): Cake\Datasource\ConnectionManager::get('default')
+#1 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(108): Bake\Shell\Task\ModelTask->getTableObject('PetData', 'pet_data')
+#2 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('PetData')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(250): Bake\Shell\Task\ModelTask->main('PetData')
+#4 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('pet_data', 0)
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#6 [internal function]: Bake\Shell\BakeShell->all('pet_data')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(443): call_user_func_array(Array, Array)
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(212): Cake\Console\Shell->runCommand(Array, true, Array)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(179): Cake\Console\ShellDispatcher->_dispatch(Array)
+#10 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch(Array)
+#11 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#12 {main}
+
+
+2016-01-23 19:37:16 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wizard_db.pet_data' doesn't exist
+Stack Trace:
+#0 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'pet_data', Array, Object(Cake\Database\Schema\Table))
+#1 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(64): Cake\Database\Schema\Collection->describe('pet_data', Array)
+#2 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\ORM\Table.php(423): Cake\Database\Schema\CachedCollection->describe('pet_data')
+#3 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\ORM\Table.php(499): Cake\ORM\Table->schema()
+#4 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(194): Cake\ORM\Table->primaryKey()
+#5 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(110): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('PetData')
+#7 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(250): Bake\Shell\Task\ModelTask->main('PetData')
+#8 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('pet_data', 0)
+#9 D:\Develop\web\game-wizard\vendor\cakephp\bake\src\Shell\BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#10 [internal function]: Bake\Shell\BakeShell->all('pet_data')
+#11 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\Shell.php(443): call_user_func_array(Array, Array)
+#12 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(212): Cake\Console\Shell->runCommand(Array, true, Array)
+#13 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(179): Cake\Console\ShellDispatcher->_dispatch(Array)
+#14 D:\Develop\web\game-wizard\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(126): Cake\Console\ShellDispatcher->dispatch(Array)
+#15 D:\Develop\web\game-wizard\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#16 {main}
+
+

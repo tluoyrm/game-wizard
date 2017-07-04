@@ -1,0 +1,428 @@
+1. ѕолучить все вещи, принадлежащие определенному аккаунту из таблиц equip, holyequip, holyman, soulcrystal
+	
+	SELECT q.* FROM roledata INNER JOIN item ON roledata.`RoleID`=item.`OwnerID` 
+	INNER JOIN equip q
+	ON item.`SerialNum`=q.SerialNum 
+	WHERE roledata.`RoleID`=7;
+	
+	SELECT q.* FROM roledata INNER JOIN item ON roledata.`RoleID`=item.`OwnerID` 
+	INNER JOIN holyequip q 	
+	ON item.`SerialNum`=q.SerialNum 
+	WHERE roledata.`RoleID`=7;
+	
+	SELECT q.* FROM roledata INNER JOIN item ON roledata.`RoleID`=item.`OwnerID` 
+	INNER JOIN holyman q 
+	ON item.`SerialNum`=q.SerialNum 
+	WHERE roledata.`RoleID`=7;
+	
+	SELECT q.* FROM roledata INNER JOIN item ON roledata.`RoleID`=item.`OwnerID` 
+	INNER JOIN soulcrystal q 	
+	ON item.`SerialNum`=q.SerialNum 
+	WHERE roledata.`RoleID`=7;
+	
+2. ѕолучить персонажа, котрый владеет вещью по серийнику
+
+	SELECT q.`SerialNum`, r.* FROM equip q INNER JOIN item i ON i.`SerialNum`=q.`SerialNum` 
+	INNER JOIN roledata r ON r.`RoleID` = i.`OwnerID` 
+	WHERE q.`SerialNum`=502906052971;	/* серийник */
+
+	SELECT q.`SerialNum`, r.* FROM holyequip q INNER JOIN item i ON i.`SerialNum`=q.`SerialNum` 
+	INNER JOIN roledata r ON r.`RoleID` = i.`OwnerID` 
+	WHERE q.`SerialNum`=500000878601;	/* серийник */
+	
+	SELECT q.`SerialNum`, r.* FROM holyman q INNER JOIN item i ON i.`SerialNum`=q.`SerialNum` 
+	INNER JOIN roledata r ON r.`RoleID` = i.`OwnerID` 
+	WHERE q.`SerialNum`=500000878601;	/* серийник */
+	
+	SELECT q.`SerialNum`, r.* FROM soulcrystal q INNER JOIN item i ON i.`SerialNum`=q.`SerialNum` 
+	INNER JOIN roledata r ON r.`RoleID` = i.`OwnerID` 
+	WHERE q.`SerialNum`=500055158213;	/* серийник */
+	
+	https://vk.com/v.kuznetsov35
+	
+	SELECT 
+sm_db.roledata.RoleName
+FROM
+sm_login.account
+INNER JOIN sm_db.account_common ON sm_login.account.id = sm_db.account_common.AccountID
+INNER JOIN sm_db.roledata ON sm_db.account_common.LastUseRoleID = sm_db.roledata.RoleID where sm_login.account.login_status>0 and privilege=0
+
+SELECT 
+sm_login.`account`.`name` AS Login, sm_db.roledata.RoleName AS Nik, sm_login.`account`.`id`
+FROM
+sm_login.account INNER JOIN sm_db.account_common ON sm_login.account.id = sm_db.account_common.AccountID
+INNER JOIN sm_db.roledata ON sm_db.account_common.LastUseRoleID = sm_db.roledata.RoleID
+
+ WHERE sm_login.account.login_status>0
+	
+	
+	UPDATE sm_db.equip SET  sm_db.equip.GodStrengthenLevel =10
+	
+A58$M61$V89$S95*v
+
+
+https://mega.co.nz/#!ANNziBaD!HBSGsZmKzpNUafuOoqTMRMrdYkNWBkZOgK9UGk4mpaM
+
+
+
+https://mega.co.nz/#!sdNzyajD!llU8ir40cUjH_Xf6i9IHZKBM2-atfhl-wHVMmleDMxE
+
+
+101310" name="ОЗ высшего уровня" dis="Макс. ОЗ +30000"
+102310" name="ОМ высшего уровня" dis="Макс. ОМ +3500"
+104310" name="Меткость высшего уровня" dis="Меткость +2500"
+105310" name="Ловкость высшего уровня" dis="Ловкость +2500"
+106310" name="Броня высшего уровня" dis="Броня +500"
+115310" name="Маг. атака высшего уровня" dis="Маг. атака +4000"
+127310" name="Повышение урона мага высшего уровня" dis="Повышение урона мага +200"
+302310" name="Снижение урона высшего уровня" dis="Повышает поглощение всех видов урона на 150."
+313310" name="Повышение урона высшего уровня" dis="Повышает все виды наносимого урона на 150."
+
+
+https://vk.com/phenix_online
+
+
+Phenix Online 
+Сервер без Духов!!!
+— Здесь ты увидишь сражения гильдий и пышные свадьбы, 
+Жестокие бои на арене и сражения против Боссов 
+Удивительные помощники Эльфы
+Невиданные доселе Питомцы, как помошники так и ездовые.
+Идеальные условия для проявления чувств;
+Приятные подарки игрокам ежедневно
+Каждый Игрок сможет найти тут что то свое.
+А также интересные ивенты - за которые вы можете получать подарки.
+Адекватные ГМ Админы и их Помошники, которые всегда вам помогут.
+— Все это можно найти в Phenix Online.
+На нашем Сервере мы рады всем игрокам, кто любит ММОРПГ.
+Также на сервере присутствуют всеми полюбившиеся Крылья
+На нашем сервере каждый может стать сильным и даже непобедимым.
+Вступайте в наши ряды.
+Приглашайте своих друзей и знакомых на наш сервер 
+И получайте за это хорошие подарки.
+
+https://vk.com/phenix_online
+
+
+Семья 100лв
+ОЗ - 500.000.
+Физ. Маг. атака - 20000.
+Физ. Маг. защита - 25000.
+Повышение физ маг урона - 900.
+Снижение физ маг урона - 900.
+Уворот - 1000.
+Упорство - 8500.
+Контроль. рез-тов усил. - 126.
+Усил. эфф. дряхл. - 84.
+Повыш. усил. замедл. - 126.
+Сниж. скор. против. - 84.
+Повыш. усил. миф. ур. - 126.
+Сопр. миф.ур. - 84.
+Негат. посл. усил. - 126.
+Негат. посл. против. - 84.
+
+
+1. Священное оружие - 40 р. [1 шт.]
+2. Оружие с Сета 92 - 60 р. [1 шт.]
+3. Оружие с Сета 93 - 80 р. [1 шт.]
+4. Оружие из сета эгиды - 100 р. [1 шт.]
+5. Свят бижа 95ур - 120 р.
+6. Свят сет 95ур - 180 р.
+7. Новый сет под класс - 400 р.
+8. Любые камни 9ур - 20 р. [5 шт.]
+9. Знаки (понижение урона +14) или (повышение урона +10) - 25 р. [50 шт.]
+10. Любой наряд вне шопа - 40 р. : https://vk.com/album-75298825_203023794
+                                   https://vk.com/album-75298825_203023622
+11. Любой титул из списка - 15 р.
+12. Книги на эльфа - 10 р. [10 шт.]
+13. Любые души в эльфа - 10 р. [10 шт.]
+14. Обычный питомец - 30 р. https://vk.com/album-75298825_203023129
+15. Легендарный питомец - 50 р. : https://vk.com/album-75298825_211999873
+16. Ездовые питомци - 50р : https://vk.com/album-75298825_203023361
+17. Прокачка гильдии (5 ур) без навыков - 100 р. 
+18. Прокачка гильдиии (5 ур) с навыками - 150 р.
+19. Прокачка семьи 100 ур. со всеми статистиками - 280 р. 
+20. Магия крови - 300 р.
+21. Прокачка репутации "Фронтир" с одной стороны - 90 р.
+22. Прокачка репутации "Фронтир" с двух сторон - 180 р.
+23. Молотковая бижа - 140 р.
+24. Удаление камней [9 ур.] - 15 р. [5 шт.]
+25. Кристал Элизиума и Абсолема - 80/80 - 150р, доп навыки на ваш выбор.
+26. Банки 100% на ОЗ ОМ - 75р 10шт.
+27. Ковка на весь шмот 10ур - 100р.
+28. Золотая монета арены 500 шт - 150р
+
+========================= ДРУГОЕ =========================
+
+1. Смена пола персонажа - 100р.
+
+2. Крылья - 130 рублей. [1 шт.]
+Скрины крыльев тут: https://vk.com/album-75298825_209413884
+
+3. Классовый эльф - 100 рублей. [ 1 шт. ]
+
+4. Сет Калисты/Венеры/Геркулеса/Деметры (93ур.) - 300 рублей [ 1 шт. ]
+
+5. Сет Единорога/Химеры/Феникса/Дракона (92ур.) - 200 рублей [ 1 шт. ]
+
+6. Наряд на 200к хп, 25к точности - 120 рублей. [ 1 шт. ] https://vk.com/album-75298825_212407318
+                                                          https://vk.com/album-75298825_212407217
+7. Гравировка 13 ур. - 150 рублей [ 42 шт. ]
+
+
+
+
+
+3051105" name="Рубин[8] - рецепт"
+3051205" name="Сапфир[8] - рецепт"
+3051305" name="Диамант[8] - рецепт"
+3051405" name="Лунник[8] - рецепт"
+3051505" name="Солнцевик[8] - рецепт"
+
+3051606" name="Диамант[8] - чертеж"
+
+Святой воин
+апостол магии
+небесный ангел
+пасынок божий
+чудик
+никто
+совсем никто
+дороумница
+папик
+беспокойный мертвец
+следуй за мной
+именем моим
+роковая женщина
+мамка
+я вернулся
+не дерзи
+хочешь миллион
+не убивай меня
+доходяга
+мордашка
+
+Аполон
+
+
+Регистрация : http://argus-online.net.ua
+
+Клиент на Яндекс : https://yadi.sk/d/21kfbClgfddo9
+
+Клиент на Мега : https://mega.co.nz/#!ugVW2KaL!rZb0SMbJ74YxtSMIM9q4LCYjNeu7pGgeNQo_DQWp24Q
+
+
+Q1$V89$S95*vA58$M6
+
+https://mega.co.nz/#!sdNzyajD!llU8ir40cUjH_Xf6i9IHZKBM2-atfhl-wHVMmleDMxE
+
+
+скрипт
+
+if role.GetRoleItemNum(RoleID, 3010157) >= 1 then -- проверка наличи€ итема в рюбзаке
+
+            role.RemoveFromRole(MapID, InstanceID, RoleID, 3010157, 1, 420) --удаление итема в количестве 1 шт.
+            role.RoleGotoNewMap(MapID, InstanceID, RoleID, 2835478787, 12987/50, 0, 6563/50) -- телепортирование на карту
+
+
+function shendianchuansong_OnTalk(MapID, InstanceID, TargetID, TargetTypeID, RoleID, TalkIndex)
+    --??????
+   local rolelevel = role.GetRoleLevel(MapID, InstanceID, RoleID)
+      if TalkIndex == -1 then
+         local MsgID = msg.BeginMsgEvent()
+         msg.AddMsgEvent(MsgID, 20, 206569)      --У???????:\n  1????30???????\n  2?????????,??????????????,??????????????10??????:??????????,???????\n  3??????????25?,?????45???Ф
+         msg.AddMsgEvent(MsgID, 24, TargetID)   --npcid
+         msg.AddMsgEvent(MsgID, 21, 4)         --????
+         msg.AddMsgEvent(MsgID, 1, 206570)      --У??????Ф
+         msg.AddMsgEvent(MsgID, 21, 5)         --????
+         msg.AddMsgEvent(MsgID, 1, 100002)      --У??Ф
+         msg.DispatchRoleMsgEvent(RoleID, MsgID)
+      elseif TalkIndex == 4 then
+         local TeamID = role.IsRoleHaveTeam(MapID, InstanceID, RoleID)
+         local minlv = 0      --??
+         local maxlv = 0      --??
+         local level = role.GetRoleLevel(MapID, InstanceID, RoleID)
+         if level < 30 then
+             local MsgID = msg.BeginMsgEvent()
+            msg.AddMsgEvent(MsgID, 20,   206571)      --???????:\n    ????30?????????????
+            msg.AddMsgEvent(MsgID, 24,   TargetID)   --npcid
+            msg.AddMsgEvent(MsgID, 21,   5)         --????
+            msg.AddMsgEvent(MsgID, 1,   100001)      --У??Ф
+            msg.DispatchRoleMsgEvent(RoleID, MsgID)
+         else
+            if role.GetRoleItemNum(RoleID, 4810062) >= 1 then
+               if TeamID ~= nil and TeamID ~= 4294967295 then
+               local Role = {}
+               Role[1], Role[2], Role[3], Role[4], Role[5], Role[6] = role.GetRoleTeamMemID(TeamID)
+                  for i=1, 6 do
+                     if Role[i] and Role[i]~= 4294967295 then
+                         local Target_MapID, Target_InstanceID = role.GetRoleMapID(Role[i])
+                         local rolelevel = role.GetRoleLevel(Target_MapID, Target_InstanceID, Role[i])
+                        if minlv == 0 then
+                           minlv = rolelevel
+                           maxlv = rolelevel
+                        end
+                        if maxlv < rolelevel then
+                            maxlv = rolelevel
+                        elseif minlv > rolelevel then
+                            minlv = rolelevel
+                        end
+                     end
+                  end
+                  if maxlv - minlv > 15 then
+                      local MsgID = msg.BeginMsgEvent()
+                     msg.AddMsgEvent(MsgID, 20,   206572)      --???????:\n    ?????????????(??15?),?????????
+                     msg.AddMsgEvent(MsgID, 24,   TargetID)   --npcid
+                     msg.AddMsgEvent(MsgID, 21,   5)         --????
+                     msg.AddMsgEvent(MsgID, 1,   100001)      --У??Ф
+                     msg.DispatchRoleMsgEvent(RoleID, MsgID)
+                  else
+                     role.RemoveFromRole(MapID, InstanceID, RoleID, 4810062, 1, 420)
+                     role.RoleGotoNewMap(MapID, InstanceID, RoleID, 1174895199, 91, 20, 217)--4567  791   10728
+
+                  end
+               elseif TeamID ~= nil then
+                  role.RemoveFromRole(MapID, InstanceID, RoleID, 4810062, 1, 420)
+                  role.RoleGotoNewMap(MapID, InstanceID, RoleID, 1174895199, 91, 20, 217)
+
+               end
+            else
+               local MsgID = msg.BeginMsgEvent()
+               msg.AddMsgEvent(MsgID, 20,   206581)      --???????:\n    ??????????,??????
+               msg.AddMsgEvent(MsgID, 24,   TargetID)   --npcid
+               msg.AddMsgEvent(MsgID, 21,   5)         --????
+               msg.AddMsgEvent(MsgID, 1,   100001)      --У??Ф
+               msg.DispatchRoleMsgEvent(RoleID, MsgID)
+            end
+         end
+      end
+end
+aux.RegisterCreatureEvent(1085204, 7, "shendianchuansong_OnTalk")
+  вход в локацию данж
+
+
+
+
+
+
+
+
+[map]
+num                =    88    ;    ????
+map1            = s01        ;    ????
+map2            = s02        ;
+map3            = s03        ;
+map4            = s04           ;
+map5            = m10        ;
+map6            = s05        ;
+map7            = s06        ;
+map8            = s07        ;
+map9            = s08        ;
+map10            = s51        ;
+map11            = s52        ;
+map12            = s53        ;
+map13            = s53_1        ;
+map14            = d01        ;
+map15            = d02        ;
+map16            = d03        ;
+map17            = d04        ;
+map18            = d05        ;
+map19            = d06            ;
+map20            = d07        ;
+map21            = d08        ;
+map22            = d09        ;
+map23            = d10        ;
+map24            = d11        ;
+map25            = h01        ;
+map26            = h02        ;
+map27            = f01        ;
+map28            = f02        ;
+map29            = f03        ;
+map30            = f04        ;
+map31            = f05        ;
+map32            = f06        ;
+map33            = f07        ;
+map34            = f08        ;
+map35            = j01        ;
+map36            = s03_1        ;
+map37            = q01        ;
+map38            = q03        ;
+map39            = q04        ;
+map40            = q05        ;
+map41            = h03_1        ;
+map42            = h03_2        ;
+map43            = h03_3        ;
+map44            = h04        ;
+map45            = h05        ;
+map46            = h06        ;
+map47            = h06_1        ;
+map48            = a01        ;
+map49            = a02        ;
+map50            = a03        ;
+map51            = s54        ;
+map52            = s55_1        ;
+map53            = s55_2        ;
+map54            = s55_3        ;
+map55            = s56        ;
+map56            = s58        ;
+map57            = s57_1        ;
+map58            = s57_2        ;
+map59            = s57_3        ;
+map60            = s57_4        ;
+map61            = s57_5        ;
+map62            = s57_6        ;
+map63            = s57_7        ;
+map64            = s59        ;
+map65            = s60        ;
+map66            = s62        ;
+map67            = s63        ;
+map68            = f20        ;
+map69            = s61        ;
+map70            = s64        ;
+map71            = s56_1        ;
+map72            = dmap1        ;
+map73            = s65        ;
+map74            = dmap2        ;
+map75            = dmap4a    ;
+map76            = dmap3a    ;
+map77            = dmap5a    ;
+map78            = h06_1     ;
+map79            = s02_1     ;
+map80            = n3         ;
+map81            = s09        ;
+map82            = n4       ;
+map83            = n5       ;
+map84           = n6        ;
+map85           = n7        ;
+map86            = n8        ;
+map87           = n9        ;
+map88            = m111        ;
+
+
+
+[born_map]                ;????
+name            =    n7    ;????
+waypoint_num        =    1    ;?????
+waypoint_1        =    born    ;?????
+
+[prison_map]                ;????
+name            =    test02   ;????
+inprisonpoint        =    enter    ;?????
+outprisonpoint        =    leave    ;?????
+
+[initial_map]
+num            =    1    ;????????
+
+
+
+
+    
+	
+    
+    
+
+
+    
+
+		
+       

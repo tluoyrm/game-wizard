@@ -1,0 +1,897 @@
+# LANGUAGE translation of CakePHP Application-
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-19 19:32+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AccountCommonController.php:58
+msgid "New account common has been saved."
+msgstr ""
+
+#: Controller/AccountCommonController.php:61;86
+msgid "The account common could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AccountCommonController.php:83
+msgid "The account common has been saved."
+msgstr ""
+
+#: Controller/AccountCommonController.php:105
+msgid "The Account Common has been deleted."
+msgstr ""
+
+#: Controller/AccountCommonController.php:107
+msgid "The Account Common could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RoledataController.php:52;77
+msgid "The roledata has been saved."
+msgstr ""
+
+#: Controller/RoledataController.php:55;80
+msgid "The roledata could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RoledataController.php:99
+msgid "The roledata has been deleted."
+msgstr ""
+
+#: Controller/RoledataController.php:101
+msgid "The roledata could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/AccountCommon/add.ctp:2
+#: Template/AccountCommon/edit.ctp:2
+#: Template/AccountCommon/index.ctp:2;14
+#: Template/AccountCommon/view.ctp:2
+#: Template/Roledata/add.ctp:2
+#: Template/Roledata/edit.ctp:2
+#: Template/Roledata/index.ctp:2;18
+#: Template/Roledata/view.ctp:2
+msgid "Actions"
+msgstr ""
+
+#: Template/AccountCommon/add.ctp:4
+#: Template/AccountCommon/edit.ctp:10
+#: Template/AccountCommon/view.ctp:6
+msgid "List Account Common"
+msgstr ""
+
+#: Template/AccountCommon/add.ctp:10
+msgid "Add Account Common"
+msgstr ""
+
+#: Template/AccountCommon/add.ctp:24
+#: Template/AccountCommon/edit.ctp:30
+#: Template/Roledata/add.ctp:189
+#: Template/Roledata/edit.ctp:195
+msgid "Submit"
+msgstr ""
+
+#: Template/AccountCommon/edit.ctp:5
+#: Template/AccountCommon/index.ctp:25
+#: Template/Roledata/edit.ctp:5
+#: Template/Roledata/index.ctp:34
+msgid "Delete"
+msgstr ""
+
+#: Template/AccountCommon/edit.ctp:7
+#: Template/AccountCommon/index.ctp:25
+#: Template/AccountCommon/view.ctp:5
+#: Template/Roledata/edit.ctp:7
+#: Template/Roledata/index.ctp:34
+#: Template/Roledata/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/AccountCommon/edit.ctp:16
+#: Template/AccountCommon/view.ctp:4
+msgid "Edit Account Common"
+msgstr ""
+
+#: Template/AccountCommon/index.ctp:4
+msgid "New AccountCommon"
+msgstr ""
+
+#: Template/AccountCommon/index.ctp:23
+#: Template/Roledata/index.ctp:32
+msgid "View"
+msgstr ""
+
+#: Template/AccountCommon/index.ctp:24
+#: Template/Roledata/index.ctp:33
+msgid "Edit"
+msgstr ""
+
+#: Template/AccountCommon/index.ctp:26
+msgid "Roledata List"
+msgstr ""
+
+#: Template/AccountCommon/index.ctp:35
+#: Template/Roledata/index.ctp:43
+msgid "previous"
+msgstr ""
+
+#: Template/AccountCommon/index.ctp:37
+#: Template/Roledata/index.ctp:45
+msgid "next"
+msgstr ""
+
+#: Template/AccountCommon/roledata_list.ctp:3
+msgid "Back to AccountCommon List"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:5
+msgid "Delete Account Common"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:7
+msgid "New Account Common"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:14
+msgid "AccountName"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:17
+msgid "BaiBaoYuanBao"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:20
+msgid "WareSize"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:23
+msgid "WareSilver"
+msgstr ""
+
+#: Template/AccountCommon/view.ctp:27
+msgid "Id"
+msgstr ""
+
+#: Template/Roledata/add.ctp:4
+#: Template/Roledata/edit.ctp:10
+#: Template/Roledata/view.ctp:6
+msgid "List Roledata"
+msgstr ""
+
+#: Template/Roledata/add.ctp:10
+msgid "Add Roledata"
+msgstr ""
+
+#: Template/Roledata/edit.ctp:16
+#: Template/Roledata/view.ctp:4
+msgid "Edit Roledata"
+msgstr ""
+
+#: Template/Roledata/index.ctp:4
+#: Template/Roledata/view.ctp:7
+msgid "New Roledata"
+msgstr ""
+
+#: Template/Roledata/view.ctp:5
+msgid "Delete Roledata"
+msgstr ""
+
+#: Template/Roledata/view.ctp:14
+msgid "RoleName"
+msgstr ""
+
+#: Template/Roledata/view.ctp:16
+msgid "CloseSGTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:18
+msgid "GetMallFreeTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:20
+msgid "CreateTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:22
+msgid "LoginTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:24
+msgid "LogoutTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:28
+msgid "AccountID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:30
+msgid "RoleID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:32
+msgid "RoleNameCrc"
+msgstr ""
+
+#: Template/Roledata/view.ctp:34
+msgid "Sex"
+msgstr ""
+
+#: Template/Roledata/view.ctp:36
+msgid "SpeakOff"
+msgstr ""
+
+#: Template/Roledata/view.ctp:38
+msgid "HairModelID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:40
+msgid "HairColorID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:42
+msgid "FaceModelID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:44
+msgid "FaceDetailID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:46
+msgid "DressModelID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:48
+msgid "DisplaySet"
+msgstr ""
+
+#: Template/Roledata/view.ctp:50
+msgid "MapID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:52
+msgid "X"
+msgstr ""
+
+#: Template/Roledata/view.ctp:54
+msgid "Y"
+msgstr ""
+
+#: Template/Roledata/view.ctp:56
+msgid "Z"
+msgstr ""
+
+#: Template/Roledata/view.ctp:58
+msgid "FaceX"
+msgstr ""
+
+#: Template/Roledata/view.ctp:60
+msgid "FaceY"
+msgstr ""
+
+#: Template/Roledata/view.ctp:62
+msgid "FaceZ"
+msgstr ""
+
+#: Template/Roledata/view.ctp:64
+msgid "RebornMapID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:66
+msgid "Class"
+msgstr ""
+
+#: Template/Roledata/view.ctp:68
+msgid "ClassEx"
+msgstr ""
+
+#: Template/Roledata/view.ctp:70
+msgid "LastUpgrade"
+msgstr ""
+
+#: Template/Roledata/view.ctp:72
+msgid "Level"
+msgstr ""
+
+#: Template/Roledata/view.ctp:74
+msgid "WorkedLevel"
+msgstr ""
+
+#: Template/Roledata/view.ctp:76
+msgid "LevelPm"
+msgstr ""
+
+#: Template/Roledata/view.ctp:78
+msgid "ExpCurLevel"
+msgstr ""
+
+#: Template/Roledata/view.ctp:80
+msgid "HP"
+msgstr ""
+
+#: Template/Roledata/view.ctp:82
+msgid "MP"
+msgstr ""
+
+#: Template/Roledata/view.ctp:84
+msgid "Rage"
+msgstr ""
+
+#: Template/Roledata/view.ctp:86
+msgid "Endurance"
+msgstr ""
+
+#: Template/Roledata/view.ctp:88
+msgid "Vitality"
+msgstr ""
+
+#: Template/Roledata/view.ctp:90
+msgid "Injury"
+msgstr ""
+
+#: Template/Roledata/view.ctp:92
+msgid "Knowledge"
+msgstr ""
+
+#: Template/Roledata/view.ctp:94
+msgid "Morale"
+msgstr ""
+
+#: Template/Roledata/view.ctp:96
+msgid "Morality"
+msgstr ""
+
+#: Template/Roledata/view.ctp:98
+msgid "Culture"
+msgstr ""
+
+#: Template/Roledata/view.ctp:100
+msgid "Credit"
+msgstr ""
+
+#: Template/Roledata/view.ctp:102
+msgid "Identity"
+msgstr ""
+
+#: Template/Roledata/view.ctp:104
+msgid "VIPPoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:106
+msgid "Spirit"
+msgstr ""
+
+#: Template/Roledata/view.ctp:108
+msgid "FixSpirit"
+msgstr ""
+
+#: Template/Roledata/view.ctp:110
+msgid "WuXun"
+msgstr ""
+
+#: Template/Roledata/view.ctp:112
+msgid "WuJi"
+msgstr ""
+
+#: Template/Roledata/view.ctp:114
+msgid "Weary"
+msgstr ""
+
+#: Template/Roledata/view.ctp:116
+msgid "AttPtAvail"
+msgstr ""
+
+#: Template/Roledata/view.ctp:118
+msgid "TalentPtAvail"
+msgstr ""
+
+#: Template/Roledata/view.ctp:120
+msgid "PhysiqueAdded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:122
+msgid "StrengthAdded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:124
+msgid "PneumaAdded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:126
+msgid "InnerforceAdded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:128
+msgid "TechniqueAdded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:130
+msgid "AgilityAdded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:132
+msgid "Strength"
+msgstr ""
+
+#: Template/Roledata/view.ctp:134
+msgid "StrengthNum"
+msgstr ""
+
+#: Template/Roledata/view.ctp:136
+msgid "EquipValue"
+msgstr ""
+
+#: Template/Roledata/view.ctp:138
+msgid "EquipPm"
+msgstr ""
+
+#: Template/Roledata/view.ctp:140
+msgid "AdvanceStrength"
+msgstr ""
+
+#: Template/Roledata/view.ctp:142
+msgid "ConsumptiveStrength"
+msgstr ""
+
+#: Template/Roledata/view.ctp:144
+msgid "KillCount"
+msgstr ""
+
+#: Template/Roledata/view.ctp:146
+msgid "TalentType1"
+msgstr ""
+
+#: Template/Roledata/view.ctp:148
+msgid "TalentType2"
+msgstr ""
+
+#: Template/Roledata/view.ctp:150
+msgid "TalentType3"
+msgstr ""
+
+#: Template/Roledata/view.ctp:152
+msgid "TalentType4"
+msgstr ""
+
+#: Template/Roledata/view.ctp:154
+msgid "TalentVal1"
+msgstr ""
+
+#: Template/Roledata/view.ctp:156
+msgid "TalentVal2"
+msgstr ""
+
+#: Template/Roledata/view.ctp:158
+msgid "TalentVal3"
+msgstr ""
+
+#: Template/Roledata/view.ctp:160
+msgid "TalentVal4"
+msgstr ""
+
+#: Template/Roledata/view.ctp:162
+msgid "BagSize"
+msgstr ""
+
+#: Template/Roledata/view.ctp:164
+msgid "BagGold"
+msgstr ""
+
+#: Template/Roledata/view.ctp:166
+msgid "BagSilver"
+msgstr ""
+
+#: Template/Roledata/view.ctp:168
+msgid "BagYuanBao"
+msgstr ""
+
+#: Template/Roledata/view.ctp:170
+msgid "ExchangeVolume"
+msgstr ""
+
+#: Template/Roledata/view.ctp:172
+msgid "GuildID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:174
+msgid "TotalTax"
+msgstr ""
+
+#: Template/Roledata/view.ctp:176
+msgid "RemoteOpenSet"
+msgstr ""
+
+#: Template/Roledata/view.ctp:178
+msgid "CurTitleID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:180
+msgid "OnlineTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:182
+msgid "CurOnlineTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:184
+msgid "RemoveTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:186
+msgid "TreasureSum"
+msgstr ""
+
+#: Template/Roledata/view.ctp:188
+msgid "StallLevel"
+msgstr ""
+
+#: Template/Roledata/view.ctp:190
+msgid "StallDailyExp"
+msgstr ""
+
+#: Template/Roledata/view.ctp:192
+msgid "StallCurExp"
+msgstr ""
+
+#: Template/Roledata/view.ctp:194
+msgid "StallLastTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:196
+msgid "DeadUnSetSafeGuardCountDown"
+msgstr ""
+
+#: Template/Roledata/view.ctp:198
+msgid "ItemTransportMapID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:200
+msgid "ItemTransportX"
+msgstr ""
+
+#: Template/Roledata/view.ctp:202
+msgid "ItemTransportZ"
+msgstr ""
+
+#: Template/Roledata/view.ctp:204
+msgid "ItemTransportY"
+msgstr ""
+
+#: Template/Roledata/view.ctp:206
+msgid "LoverID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:208
+msgid "HaveWedding"
+msgstr ""
+
+#: Template/Roledata/view.ctp:210
+msgid "LastLessingTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:212
+msgid "LastLessingLevel"
+msgstr ""
+
+#: Template/Roledata/view.ctp:214
+msgid "NeedPrisonRevive"
+msgstr ""
+
+#: Template/Roledata/view.ctp:216
+msgid "LastLessingLevelEx"
+msgstr ""
+
+#: Template/Roledata/view.ctp:218
+msgid "LastLessingLoongDate"
+msgstr ""
+
+#: Template/Roledata/view.ctp:220
+msgid "CurrentDayOnlineTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:222
+msgid "OneDayFirstLoginedTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:224
+msgid "OnlineRewardPerDayRecTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:226
+msgid "MasterID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:228
+msgid "JingWuPoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:230
+msgid "QinWuPoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:232
+msgid "MARelation"
+msgstr ""
+
+#: Template/Roledata/view.ctp:234
+msgid "FollowPetPocketValue"
+msgstr ""
+
+#: Template/Roledata/view.ctp:236
+msgid "RidingPetPocketValue"
+msgstr ""
+
+#: Template/Roledata/view.ctp:238
+msgid "MiraclePrcNum"
+msgstr ""
+
+#: Template/Roledata/view.ctp:240
+msgid "MiracleResetTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:242
+msgid "GodMiraclePoints"
+msgstr ""
+
+#: Template/Roledata/view.ctp:244
+msgid "SoaringValue"
+msgstr ""
+
+#: Template/Roledata/view.ctp:246
+msgid "SoaringSkillLearnTimes"
+msgstr ""
+
+#: Template/Roledata/view.ctp:248
+msgid "Toughness"
+msgstr ""
+
+#: Template/Roledata/view.ctp:250
+msgid "CompleteRefreshTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:252
+msgid "IMRefreshTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:254
+msgid "ConsolidateTimes"
+msgstr ""
+
+#: Template/Roledata/view.ctp:256
+msgid "TrainStateTransfered"
+msgstr ""
+
+#: Template/Roledata/view.ctp:258
+msgid "RoleState"
+msgstr ""
+
+#: Template/Roledata/view.ctp:260
+msgid "VipStartTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:262
+msgid "FreeWorldTalkTimes"
+msgstr ""
+
+#: Template/Roledata/view.ctp:264
+msgid "VipMaxDays"
+msgstr ""
+
+#: Template/Roledata/view.ctp:266
+msgid "YaoJingValue"
+msgstr ""
+
+#: Template/Roledata/view.ctp:268
+msgid "YListCompleteRefreshTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:270
+msgid "YListIMRefreshTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:272
+msgid "TakeGuildRewardTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:274
+msgid "ExpPilularUseTimes"
+msgstr ""
+
+#: Template/Roledata/view.ctp:276
+msgid "PickupModeSetting"
+msgstr ""
+
+#: Template/Roledata/view.ctp:278
+msgid "PlayerBackDays"
+msgstr ""
+
+#: Template/Roledata/view.ctp:280
+msgid "BePlayActLayerID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:282
+msgid "BePlayActLevel"
+msgstr ""
+
+#: Template/Roledata/view.ctp:284
+msgid "GodHead"
+msgstr ""
+
+#: Template/Roledata/view.ctp:286
+msgid "GodFaith"
+msgstr ""
+
+#: Template/Roledata/view.ctp:288
+msgid "GodCondenced"
+msgstr ""
+
+#: Template/Roledata/view.ctp:290
+msgid "Clergy"
+msgstr ""
+
+#: Template/Roledata/view.ctp:292
+msgid "PreClergy"
+msgstr ""
+
+#: Template/Roledata/view.ctp:294
+msgid "ClergyMarsPoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:296
+msgid "ClergyApolloPoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:298
+msgid "ClergyRabbiPoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:300
+msgid "ClergyPeacePoint"
+msgstr ""
+
+#: Template/Roledata/view.ctp:302
+msgid "ClergyCandidateType"
+msgstr ""
+
+#: Template/Roledata/view.ctp:304
+msgid "Clergy4SeniorOrJunior"
+msgstr ""
+
+#: Template/Roledata/view.ctp:306
+msgid "FamilyID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:308
+msgid "KeyCodeRewarded"
+msgstr ""
+
+#: Template/Roledata/view.ctp:310
+msgid "TrainDate"
+msgstr ""
+
+#: Template/Roledata/view.ctp:312
+msgid "TrainNum"
+msgstr ""
+
+#: Template/Roledata/view.ctp:314
+msgid "Award Point"
+msgstr ""
+
+#: Template/Roledata/view.ctp:316
+msgid "Award Flag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:318
+msgid "BrotherEndTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:320
+msgid "BrotherTeacherID"
+msgstr ""
+
+#: Template/Roledata/view.ctp:322
+msgid "PulseRemainTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:324
+msgid "TigerTime"
+msgstr ""
+
+#: Template/Roledata/view.ctp:326
+msgid "God Soul"
+msgstr ""
+
+#: Template/Roledata/view.ctp:328
+msgid "Monster Soul"
+msgstr ""
+
+#: Template/Roledata/view.ctp:330
+msgid "God Point"
+msgstr ""
+
+#: Template/Roledata/view.ctp:332
+msgid "Monster Point"
+msgstr ""
+
+#: Template/Roledata/view.ctp:334
+msgid "Flower Num"
+msgstr ""
+
+#: Template/Roledata/view.ctp:336
+msgid "Egg Num"
+msgstr ""
+
+#: Template/Roledata/view.ctp:338
+msgid "Holy Value"
+msgstr ""
+
+#: Template/Roledata/view.ctp:340
+msgid "Role Hit Add"
+msgstr ""
+
+#: Template/Roledata/view.ctp:342
+msgid "Role Eei All"
+msgstr ""
+
+#: Template/Roledata/view.ctp:346
+msgid "SGFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:347;349;351;353;355;357;359;361;363;365;367;369
+msgid "Yes"
+msgstr ""
+
+#: Template/Roledata/view.ctp:347;349;351;353;355;357;359;361;363;365;367;369
+msgid "No"
+msgstr ""
+
+#: Template/Roledata/view.ctp:348
+msgid "RemoveFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:350
+msgid "Hostility"
+msgstr ""
+
+#: Template/Roledata/view.ctp:352
+msgid "OfflineExperienceRewardFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:354
+msgid "VipLevel"
+msgstr ""
+
+#: Template/Roledata/view.ctp:356
+msgid "CanRankFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:358
+msgid "Buy50LvlItemFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:360
+msgid "Buy60LvlItemFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:362
+msgid "Buy70LvlItemFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:364
+msgid "Buy80LvlItemFlag"
+msgstr ""
+
+#: Template/Roledata/view.ctp:366
+msgid "PlayerBack"
+msgstr ""
+
+#: Template/Roledata/view.ctp:368
+msgid "UseConstraintsMaxPKSafeGuardLevel"
+msgstr ""
+

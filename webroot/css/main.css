@@ -1,0 +1,517 @@
+body {
+    background-color: #eeeeee;
+}
+
+#page-wrapper {
+    height: 100%;
+    background-color: #eeeeee;
+}
+
+.container-fluid {
+    padding-top: 25px;
+}
+
+a, a:focus, a:active, a:hover, a:checked, a:visited, button.btn {
+    outline: 0 !important;
+}
+
+.fa-fw {
+    margin-right: 5px;
+}
+
+.clear {
+    clear: both;
+}
+
+.dropdown-menu.lang {
+    width: auto;
+    height: 65px;
+}
+
+nav.navbar div.collapse ul li.active > a {
+    background-color: #080808;
+    color: #fff;
+}
+
+#page-wrapper div.actions ul.side-nav {
+    position: relative;
+    left: 0;
+    top: 4px;
+    background-color: transparent;
+    margin: 0;
+    padding: 0 0 10px 15px;
+}
+
+#page-wrapper div.actions ul.side-nav li a:hover,
+#page-wrapper div.actions ul.side-nav li a:focus {
+    background-color: #ffffff !important;
+}
+
+.form-control {
+    width: auto;
+}
+
+label {
+    font-weight: normal;
+}
+
+.lang a.chosen-single {
+    display: none !important;
+}
+
+.lang .chosen-container.chosen-with-drop .chosen-drop {
+    position: static;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.lang .chosen-container .chosen-results {
+    padding: 0;
+    margin: 0 0 4px 0;
+}
+
+.lang .chosen-container .chosen-results li {
+    padding: 6px 0 6px 20px;
+    font-size: 14px;
+}
+
+.lang .chosen-container .chosen-results li.highlighted {
+    background-image: none;
+    background-color: #eee;
+    color: #3f51b5;
+}
+
+.lang .chosen-container .chosen-results li:last-child {
+    margin-bottom: 5px;
+}
+
+div.input.checkbox {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+div.input.checkbox label.col-sm-2 input[type="checkbox"] {
+    left: 200px;
+    height: auto;
+}
+
+div.input.checkbox label.col-sm-3 input[type="checkbox"] {
+    left: 285px;
+    height: auto;
+}
+
+.form-horizontal .checkbox, .form-horizontal .radio {
+    min-height: 32px;
+}
+
+.voffset2  { margin-top: 2px; }
+.voffset5 { margin-top: 5px; }
+.voffset10 { margin-top: 10px; }
+.voffset15 { margin-top: 15px; }
+.voffset20 { margin-top: 20px; }
+
+.account .checkbox label {
+    padding: 0 0 0 15px;
+}
+
+th.actions {
+    text-align: left;
+    width: 130px;
+}
+
+th.actions.centered {
+    text-align: center;
+}
+
+th.actions.icon-contain {
+    text-align: center;
+}
+
+th.ids, td.ids {
+    text-align: center;
+}
+
+th.numbers {
+    text-align: center;
+}
+
+td.numbers {
+    text-align: right;
+}
+
+div.icon-contain {
+    position: relative;
+    height: 24px;
+}
+
+div.icon-contain i {
+    position: absolute;
+    top: 3px;
+    left: 0;
+}
+
+div.icon-contain div {
+    position: absolute;
+    top: 1px;
+    left: 20px;
+    font-size: 12px;
+}
+
+div.icon-contain-inline {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.roledata_list td.actions {
+    text-align: center;
+}
+
+div.equipment .table {
+    width: auto;
+}
+
+#find_results,
+#login_log {
+    display: none;
+}
+
+.find_progress {
+    padding: 20px 0 0 15px;
+    font-size: 30px;
+    vertical-align: top;
+    display: none;
+    color: #009688;
+}
+
+.equipment.find .table th.name {
+    width: 150px;
+}
+
+td.actions {
+    text-align: center;
+}
+
+.equip td.actions {
+    font-size: 20px;
+}
+
+td.actions .action {
+    margin: 0 2px;
+    display: inline-block;
+}
+
+.sort_container.disabled {
+    opacity: 0.5;
+    color: grey;
+    cursor: default;
+}
+
+.sort_container.disabled a {
+    pointer-events: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.modal-header {
+    text-align: center;
+}
+
+.modal-backdrop {
+    z-index: 0;
+}
+
+#equip_add option.current {
+    color: red;
+    font-weight: bold;
+}
+
+div.actions {
+    display: none;
+}
+
+.table-responsive {
+    padding-left: 0;
+    padding-right: 1px;
+}
+
+.alert {
+    background-image: none;
+}
+
+div.id {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 6px;
+}
+
+.well {
+    background-image: none;
+}
+
+span.checkbox-material {
+    margin-right: 11px;
+}
+
+ul.nav.nav-tabs {
+    padding: 0 0 0 10px;
+}
+
+.tab-content.view {
+    padding: 0 0 35px 10px;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #ddd;
+}
+
+.nav-tabs li {
+    margin-bottom: 0;
+}
+
+.nav-tabs li.active {
+    border-bottom: 2px solid #ddd;
+}
+
+.nav-tabs li > a {
+    line-height: 17px;
+}
+
+.navbar,
+.navbar .navbar-collapse,
+.navbar .navbar-brand {
+    color: #999;
+}
+
+.navbar .navbar-brand {
+    height: 51px;
+}
+
+.navbar .navbar-brand {
+    line-height: 51px;
+    font-size: 17px;
+    padding: 0 22px;
+    width: 225px;
+}
+
+.navbar.navbar-inverse .dropdown-menu li > a {
+    font-size: 14px;
+    padding: 4px 20px;
+}
+
+.navbar .navbar-nav > li > a,
+.top-nav > li > a {
+    padding: 15px 10px 16px 10px;
+}
+
+.navbar .navbar-nav.side-nav > li > a {
+    padding-left: 20px;
+}
+
+.dropdown-menu .divider {
+    margin: 5px 0;
+}
+
+li#actions {
+    display: none;
+}
+
+li#actions .dropdown-menu > li > a {
+    white-space: nowrap;
+}
+
+div.input.error {
+    position: relative;
+}
+
+div.input.error .error-message {
+    font-size: 12px;
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    color: #f44336;
+}
+
+h3 {
+    margin: 5px 0;
+}
+
+.equip_type_container > div {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+.equip_type_container .form-group select {
+    margin: 0;
+    padding: 8px 0 0 0;
+    font-size: 14px;
+}
+
+.equip_type_container .sort_container {
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+#wrapper .view.well {
+    padding: 0;
+}
+
+#wrapper .view.well .row {
+    margin: 0;
+    padding: 25px 0;
+}
+
+.roledata.view.well .tab-content.view .form-group:first-child {
+    margin: 20px 0 0;
+}
+
+.view.columns.well .row .form-group:first-child {
+    margin: 10px 0 0;
+}
+
+.related.row {
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+.container-fluid .well.search_form,
+.container-fluid .well.login_log_form {
+    padding: 19px 19px 30px 19px;
+}
+
+#search_form .form-group {
+    margin: 0;
+    padding: 6px 0;
+}
+
+#search_form > div.form-group, #search > button {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#search_form {
+    margin: 0;
+}
+
+#search_form label {
+    display: none;
+}
+
+input#search {
+    padding-left: 10px;
+}
+
+.btn.btn-fab {
+    font-size: 17px;
+    padding: 0 0 0 6px;
+}
+
+.login_log_form .form-group {
+    margin: 10px 0 0;
+}
+
+#equip_add input#count {
+    width: 100px;
+}
+
+div.not_found {
+    padding: 20px;
+    clear: both;
+}
+
+select#accountID {
+    width: 200px;
+}
+
+.navbar .navbar-form#search_form .form-control {
+    color: #999 !important;
+    width: 220px;
+}
+
+.navbar .navbar-form#search_form .form-control::-moz-placeholder {
+    opacity: 0.2;
+}
+
+.navbar .navbar-form#search_form .form-control::-webkit-input-placeholder {
+    opacity: 0.2;
+}
+
+select#familyid, select#guildid {
+    width: 200px;
+}
+
+.search_part {
+    padding-top: 20px;
+}
+
+.search_item span.highlight {
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.profile .row {
+    padding-bottom: 20px;
+}
+
+.profile .list-group {
+    box-shadow: none;
+}
+
+.profile .list-group .list-group-item h4.list-group-item-heading {
+    font-weight: normal;
+    font-size: 18px;
+}
+
+#search_block #search {
+    width: 150px;
+}
+
+.view .nav.nav-tabs {
+    padding: 0;
+}
+
+form.table_editor td:not(.edit) {
+    padding-top: 14px;
+}
+
+form.table_editor .form-group {
+    margin: 0;
+    padding: 0;
+}
+
+form.table_editor div.input {
+    display: inline-block;
+    vertical-align: top;
+}
+
+form.table_editor div.input > label {
+    display: none;
+}
+
+form.table_editor div.input > input {
+    margin: 0;
+    padding: 0;
+    width: 90px;
+    height: 30px;
+}
+
+.col-md-offset-2 {
+    padding-left: 0;
+}
+
+.buttons_block {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.buttons_block button {
+    margin-right: 5px;
+}
+
+input[type=number].no_spinners {
+    -moz-appearance: textfield;
+}

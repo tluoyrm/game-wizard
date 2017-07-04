@@ -1,0 +1,342 @@
+msgid "Home"
+msgstr "Главная"
+
+msgid "Thesis1"
+msgstr "Уникальная система администрирования игровых элементов"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "View"
+msgstr "Просмотр "
+
+msgid "New"
+msgstr "Создать новый "
+
+msgid "List"
+msgstr "Список "
+
+msgid "Edit"
+msgstr "Редактировать "
+
+msgid "Delete"
+msgstr "Удалить "
+
+msgid "AccountCommon"
+msgstr "аккаунт"
+
+msgid "ListAccountCommon"
+msgstr "Аккаунты"
+
+msgid "RoledataList"
+msgstr "Персонажи"
+
+msgid "Account#"
+msgstr "Аккаунт#"
+
+msgid "Role#"
+msgstr "Перс.#"
+
+msgid "ListAccountCommon"
+msgstr "Аккаунты"
+
+msgid "PleaseSelectLanguage"
+msgstr "Выберете язык страницы"
+
+msgid "RoledataListHeader"
+msgstr "Список персонажей аккаунта "
+
+msgid "Back"
+msgstr "Назад на "
+
+msgid "Roledata"
+msgstr "персонаж"
+
+msgid "previous"
+msgstr "пред."
+
+msgid "next"
+msgstr "след."
+
+msgid "About"
+msgstr "О нас"
+
+msgid "Contact"
+msgstr "Контакты"
+
+msgid "Username"
+msgstr "Пользователь"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Please login"
+msgstr "Авторизуйтесь в системе"
+
+msgid "AddUser"
+msgstr "Создать персональный аккаунт"
+
+msgid "Role"
+msgstr "Права"
+
+msgid "SignIn"
+msgstr "Войти"
+
+msgid "SignUp"
+msgstr "Регистрация"
+
+msgid "UserCreate"
+msgstr "Создать аккаунт"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Tables"
+msgstr "Таблицы"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "String parameters"
+msgstr "Текстовые значения"
+
+msgid "Number parameters"
+msgstr "Числовые значения"
+
+msgid "Boolean parameters"
+msgstr "Логические значения"
+
+msgid "Edit Roledata"
+msgstr "Редактировать персонаж"
+
+msgid "Edit Account Common"
+msgstr "Редактировать аккаунт"
+
+msgid "Submit"
+msgstr "Сохранить"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "Reports"
+msgstr "Отчеты"
+
+msgid "ListLoginLog"
+msgstr "Отчеты входа в игру"
+
+msgid "LoginLog"
+msgstr "Отчет по "
+
+msgid "Ban IP"
+msgstr "Забанить по IP"
+
+msgid "Ban MAC"
+msgstr "Забанить по MAC"
+
+msgid "Monitoring"
+msgstr "Мониторинг"
+
+msgid "Monitoring for account"
+msgstr "Мониторинг актовности аккуанта"
+
+
+msgid "AccountID"
+msgstr "Id"
+
+msgid "Account ID"
+msgstr "Аккаунт#"
+
+msgid "RoleID"
+msgstr "Id"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "AccountName"
+msgstr "Аккаунт"
+
+msgid "LastUseRoleID"
+msgstr "Посл. перс.#"
+
+msgid "LastRoleName"
+msgstr "Посл. персонаж"
+
+msgid "RoleName"
+msgstr "Ник персонажа"
+
+msgid "Equipment"
+msgstr "Снаряжение"
+
+msgid "Family"
+msgstr "Семья"
+
+msgid "Edit Family"
+msgstr "Редактировать семью"
+
+msgid "Delete Family"
+msgstr "Удалить семью"
+
+msgid "List Family"
+msgstr "Список семей"
+
+msgid "New Family"
+msgstr "Создать семью"
+
+msgid "FamilyList"
+msgstr "Семьи"
+
+msgid "Sprite"
+msgstr "Эльф"
+
+msgid "GuildList"
+msgstr "Гильдии"
+
+msgid "CityList"
+msgstr "Города"
+
+msgid "CommerceRankList"
+msgstr "Коммерческие ранги"
+
+msgid "PetData"
+msgstr "Питомцы"
+
+msgid "Nurslings"
+msgstr "Петомцы"
+
+msgid "EquipType"
+msgstr "все типы"
+
+msgid "Members"
+msgstr "Участники"
+
+msgid "Edit Pet Data"
+msgstr "Редактировать петомца"
+
+msgid "Delete Pet Data"
+msgstr "Удалить петомца"
+
+msgid "List Pet Data"
+msgstr "Список петомцев"
+
+msgid "New Pet Data"
+msgstr "Создать петомца"
+
+msgid "Guild"
+msgstr "Гильдия"
+
+msgid "Sex"
+msgstr "Пол"
+
+msgid "New City"
+msgstr "Создать город"
+
+msgid "List Guild"
+msgstr "Список гильдий"
+
+msgid "List City"
+msgstr "Список городов"
+
+msgid "New Guild"
+msgstr "Создать гильдию"
+
+msgid "List Commerce Rank"
+msgstr "Список Commerce Rank"
+
+msgid "Edit Guild"
+msgstr "Редактировать гильдию"
+
+msgid "Delete Guild"
+msgstr "Удалить гильдию"
+
+msgid "Related City"
+msgstr "Связанные города"
+
+msgid "Related Guild Skill"
+msgstr "Связанные навыки гильдий"
+
+msgid "Related Commerce Rank"
+msgstr "Связанные Commerce Rank"
+
+msgid "Not Found"
+msgstr "Не найдено"
+
+msgid "Man"
+msgstr "Мужской"
+
+msgid "Woman"
+msgstr "Женский"
+
+msgid "Additionally"
+msgstr "Дополнительно"
+
+msgid "Find"
+msgstr "Поиск"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Upgrade"
+msgstr "Прокачка"
+
+msgid "Delete Member"
+msgstr "Удалить участника"
+
+msgid "Update"
+msgstr "Сохранить"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "User settings"
+msgstr "Настройки пользователя"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Account Created"
+msgstr "Аккаунт создан"
+
+msgid "Login Time"
+msgstr "Последний вход"
+
+msgid "Logout Time"
+msgstr "Последний выход"
+
+msgid "User Role"
+msgstr "Права пользователя"
+
+msgid "Please input the serial number to find"
+msgstr "Введите серийный номер вещи"
+
+msgid "Serial Number"
+msgstr "Серийный №"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Please select an account to see the login log"
+msgstr "Выберете аккаунт для просмотра журнала входов"
+
+msgid "Please select"
+msgstr "Пожалуйста выберете"
+
+msgid "Search results"
+msgstr "Результаты поиска"
+
+msgid "SearchEmpty"
+msgstr "Ничего не найдено"
+
+msgid "No results"
+msgstr "Не найдено"
+
+msgid "List Nurslings"
+msgstr "Список петомцев"
+
+msgid "delete_item"
+msgstr "Удалить эту вещь из списка вещей персонажа"
+
+msgid "secret_description"
+msgstr "Введите кодовое слово"

@@ -1,0 +1,15 @@
+body,
+#page-wrapper {
+    background-color: #FFFFE0;
+}
+
+.side-nav,
+#search_form,
+.navbar-right {
+    display: none;
+}
+
+.navbar-brand {
+    pointer-events: none;
+    cursor: default;
+}

@@ -1,0 +1,107 @@
+msgid "Home"
+msgstr "Home"
+
+msgid "View"
+msgstr "View "
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "New"
+msgstr "Create new "
+
+msgid "Edit"
+msgstr "Edit "
+
+msgid "Delete"
+msgstr "Delete "
+
+msgid "Roledata"
+msgstr "Roledata"
+
+msgid "RoledataList"
+msgstr "Roledata"
+
+msgid "AccountCommon"
+msgstr "Account"
+
+msgid "ListAccountCommon"
+msgstr "Accounts"
+
+msgid "PleaseSelectLanguage"
+msgstr "Please Select Language"
+
+msgid "RoledataListHeader"
+msgstr "Roledata of AccountCommon"
+
+msgid "Back"
+msgstr "Back to "
+
+msgid "SignIn"
+msgstr "Sign In"
+
+msgid "SignUp"
+msgstr "Sign Up"
+
+msgid "AddUser"
+msgstr "Create personal account"
+
+msgid "UserCreate"
+msgstr "Create an account"
+
+msgid "ListLoginLog"
+msgstr "Login Log"
+
+msgid "LoginLog"
+msgstr "Log for "
+
+msgid "AccountID"
+msgstr "Id"
+
+msgid "Account ID"
+msgstr "Account#"
+
+msgid "RoleID"
+msgstr "Id"
+
+msgid "AccountName"
+msgstr "Account"
+
+msgid "LastUseRoleID"
+msgstr "Last Role#"
+
+msgid "LastRoleName"
+msgstr "Last Role Name"
+
+msgid "RoleName"
+msgstr "Role Name"
+
+msgid "copy_item"
+msgstr "Assign copy of this item to another Roledata"
+
+msgid "FamilyList"
+msgstr "Families"
+
+msgid "GuildList"
+msgstr "Guilds"
+
+msgid "CityList"
+msgstr "Cities"
+
+msgid "CommerceRankList"
+msgstr "CommerceRanks"
+
+msgid "PetData"
+msgstr "Nurslings"
+
+msgid "EquipType"
+msgstr "all types"
+
+msgid "SearchEmpty"
+msgstr "No results found"
+
+msgid "delete_item"
+msgstr "Delete this item from equipment Roledata list"
+
+msgid "secret_description"
+msgstr "Please type some secret word"
